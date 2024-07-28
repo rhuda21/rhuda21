@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @rhuda21
 - 👀 I’m interested in technology
-- 🌱 I’m currently C# and Python
+- 🌱 I’m currently learning C# and Python
 - 📫 How to reach me:@nitwitmc (Discord)
 - 😄 Pronouns: he/him (thats it!)
-- ⚡ Fun fact: I am leader of sodiumstudios
+- ⚡ Fun fact: I am the owner of sodiumstudios
 - 🔗 You can visit it here: https://gitlab.com/sodiumstudios
 
 <!---
