@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rhuda21
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning C#,Lua and Python
+- 🌱 I’m currently learning C# , Lua and Python
 - 📫 How to reach me:@nitwitmc (Discord)
 - 😄 Pronouns: he/him (thats it!)
 - ⚡ Fun fact: I am the owner of sodiumstudios
