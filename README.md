@@ -4,7 +4,6 @@
 - 📫 How to reach me:@nitwitmc (Discord)
 - 😄 Pronouns: he/him (thats it!)
 - ⚡ Fun fact: I am the owner of sodiumstudios
-- 🔗 You can visit it here: https://gitlab.com/sodiumstudios
 
 <!---
 rhuda21/rhuda21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
