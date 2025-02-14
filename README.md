@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @rhuda21
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning C# , Lua and Python
+- 🌱 I’m currently learning Lua and Python
 - 📫 How to reach me:@nitwitmc (Discord)
 - 😄 Pronouns: he/him (thats it!)
-- ⚡ Fun fact: I am the owner of UB Hub scripts!
+- ⚡ Owner of UB Hub 
 
 <!---
 rhuda21/rhuda21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
